@@ -6,18 +6,16 @@
  */
 int main(void)
 {
-int i;
-for (i = 0 ; i <= 9 ; i++)
+int ch;
+for (ch = 0 ; ch <= 9 ; ch++)
 {
-putchar(i % 10 + '0');
-}
-for (i = 0 ; i <= 9 ; i++)
+putchar(ch);
+if (ch != '9')
 {
 putchar(',');
-}
-for (i = 0 ; i < 9 ; i++)
-{
 putchar(' ');
 }
+}
+putchar('\n');
 return (0);
 }
