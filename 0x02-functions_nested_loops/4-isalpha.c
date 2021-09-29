@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isalpha- returns 1 if c or C
- *
+ *@c: variable
  * Return: Always 0.
  */
 
