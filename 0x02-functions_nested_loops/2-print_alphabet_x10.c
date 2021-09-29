@@ -15,7 +15,10 @@ for (ch = 'a'; ch <= 'z'; ch++)
 {
 _putchar(ch);
 }
-}
+if (ch > 'z')
+{
 _putchar('\n');
+}
+}
 return;
 }
