@@ -1,0 +1,19 @@
+#include "main.h"
+/**
+ * _isalpha- returns 1 if c or C
+ *
+ * Return: Always 0.
+ */
+
+int _isalpha(int c)
+{
+if (c >= 'a' && c <= 'z')
+{
+c = '1';
+}
+else
+{
+c = '0';
+}
+return (c);
+}
