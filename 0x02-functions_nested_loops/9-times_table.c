@@ -13,7 +13,7 @@ for (n = 0 ; n <= 9 ; n++)
 {
 if (n * n <= 81)
 {
-_putchar('n');
+_putchar(n + '0');
 _putchar(',');
 _putchar(' ');
 }
@@ -22,7 +22,7 @@ for (x = 0 ; x <= 9 ; x++)
 {
 if (x * x <= 81)
 {
-_putchar('n');
+_putchar(x + '0');
 _putchar(',');
 _putchar('.');
 }
