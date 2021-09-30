@@ -15,7 +15,7 @@ for (n = 1 ; n <= 9 ; n++)
 _putchar('0');
 for (x = 1 ; x <= 9 ; x++)
 {
-y = x * y;
+y = x * n;
 _putchar(',');
 _putchar(' ');
 if (y >= 10)
@@ -28,6 +28,6 @@ _putchar(' ');
 _putchar('0' + (x % 10));
 }
 }
- _putchar('\n');
+_putchar('\n');
 }
 }
