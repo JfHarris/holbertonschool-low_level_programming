@@ -9,7 +9,7 @@ void times_table(void)
 {
 int n;
 int x;
-for (n = 0 ; n <= 9 ; n++)
+for (n = 0 ; n <= 81 ; n++)
 {
 if (n * n <= 81)
 {
@@ -18,7 +18,7 @@ _putchar(',');
 _putchar(' ');
 }
 }
-for (x = 0 ; x <= 9 ; x++)
+for (x = 0 ; x <= 81 ; x++)
 {
 if (x * x <= 81)
 {
