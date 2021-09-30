@@ -14,17 +14,18 @@ int h;
 
 for (h = 0 ; h <= 23 ; h++)
 {
+for (m = 0 ; m <= 59 ; m++)
+{
 if (h < 10)
 {
 printf("0");
 }
 printf("%d:", h);
-for (m = 0 ; m <= 59 ; m++)
 if (m < 10)
 {
 printf("0");
 }
 printf("%d\n", m);
 }
-return;
+}
 }
