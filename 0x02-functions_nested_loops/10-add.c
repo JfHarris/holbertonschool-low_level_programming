@@ -1,11 +1,14 @@
 #include "main.h"
 /**
  *add - adding 2 integers and print return result
- *
+ *@x: var
+ *@y: var
  * Return: Always 0.
  */
 
-int add(int, int)
+int add(int x, int y)
 {
-return (0);
+int z;
+z = x + y;
+return (z);
 }
