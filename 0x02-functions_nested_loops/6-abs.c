@@ -2,8 +2,14 @@
 /**
  *_abs- computing absolute value of int variable
  *@n: variable int
- * Return: Always 0.
+ * Return: m.
  */
 
-int _abs(int)
+int _abs(int n)
 {
+if (n < 0)
+{
+n = 0 - n;
+}
+return (n);
+}
