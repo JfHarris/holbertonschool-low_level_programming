@@ -20,12 +20,12 @@ _putchar(',');
 _putchar(' ');
 if (y >= 10)
 {
-_putchar('0' + (x / 10));
+_putchar('0' + (y / 10));
 }
 else
 {
 _putchar(' ');
-_putchar('0' + (x % 10));
+_putchar('0' + (y % 10));
 }
 }
 _putchar('\n');
