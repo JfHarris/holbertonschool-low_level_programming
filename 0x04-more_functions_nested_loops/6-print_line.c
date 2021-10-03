@@ -16,6 +16,7 @@ void print_line(int n)
      for (y = 0 ; y <= x ; x++)
        {
 	_putchar(a);
+	_putchar('\n');
        }
      if (x < 0)
        {
