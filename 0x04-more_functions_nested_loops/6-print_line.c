@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - check the code
+ *print_lines - printing blank lines
  *
  * Return: Always 0.
  */
@@ -8,20 +8,13 @@
 void print_line(int n)
 {
   int x;
-  int y;
-  char a = '_'
-  
-  for (x = 0 ; x < n; x++)
+
+  if (n > 0)
     {
-     for (y = 0 ; y <= x ; x++)
-       {
-	_putchar(a);
-	_putchar('\n');
-       }
-     if (x < 0)
-       {
-	_putchar('\n');
-       }
+      for (x = 0 ; x < n ; x++)
+	{
+	_putchar(' ');
+	}
     }
   _putchar('\n');
   return;
