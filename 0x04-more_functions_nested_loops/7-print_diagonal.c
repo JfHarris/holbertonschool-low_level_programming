@@ -1,24 +1,21 @@
 #include "main.h"
 /**
- * main - check the code
- *
+ *print_diagonal- printing
+ *@n: var
  * Return: Always 0.
  */
 
 void print_diagonal(int n)
 {
-  int x;
-  int y;
-  char a = '\\'
+int x;
 
-    for (x = 0 ; x < n ; x++)
-      {
-       for (y = 0 ; y <= x ; y++)
-	 {
-	  _putchar(a);
-	  _putchar('\n');
-	 }
-      }
-  _putchar('\n');
-  return;
+if (n > 0)
+{
+for (x = 0 ; x < n ; x++)
+{
+_putchar('\\');
+}
+}
+_putchar('\n');
+return;
 }
