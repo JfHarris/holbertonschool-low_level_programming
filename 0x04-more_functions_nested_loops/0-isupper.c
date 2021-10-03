@@ -13,7 +13,7 @@ int _isupper(int c)
     {
       c = 1;
     }
-  else if (c >= 'A' && c <= 'Z')
+  else if (c >= 'A' && c <= 'Z' && != 'C')
     {
       c = 1;
     }
