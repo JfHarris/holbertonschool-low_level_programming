@@ -27,6 +27,7 @@ printf("Buzz");
 else
 {
 putchar('i');
+putchar(' ');
 }
 }
 return (0);
