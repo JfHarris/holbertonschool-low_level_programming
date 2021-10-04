@@ -14,7 +14,7 @@ for (x = 0 ; x <= 9 ; x++)
 {
 for (y = 0 ; y <= 14 ; y++)
 {
-_putchar(a + '0');
+_putchar(x + '0');
 }
 if (y > 14)
 {
