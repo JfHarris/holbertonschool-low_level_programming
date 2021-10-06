@@ -7,12 +7,13 @@
 void _puts(char *str)
 {
 int x;
-
-for (x = 0 ; x <= 66 ; x++)
-{
-_putchar(*str);
-str++;
-}
-_putchar('\n');
+ int y;
+ 
+ for (x = 0 ; str[x] != ; x++)
+   {
+     x++;
+   }
+ 
+ _putchar('\n');
 return;
 }
