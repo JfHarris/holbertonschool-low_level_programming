@@ -7,13 +7,16 @@
 void _puts(char *str)
 {
 int x;
- int y;
- 
- for (x = 0 ; str[x] != ; x++)
-   {
-     x++;
-   }
- 
- _putchar('\n');
+int y;
+
+for (x = 0 ; str[x] != 0 ; x++)
+{
+x++;
+}
+for (y = 0 ; y < x ; y++)
+{
+_putchar(str[y]);
+}
+_putchar('\n');
 return;
 }
