@@ -8,7 +8,20 @@
  *
  * Return: nothing.
  */
-void print_array(int *a, int n)
+void reverse_array(int *a, int n)
 {
-  return;
+int x;
+int y;
+int z;
+
+y = n - 1;
+
+for (x = 0 ; x < (n / 2); x++, y--)
+{
+z = a[x];
+a[x] = a[y];
+a[y] = z;
+}
+
+return;
 }
