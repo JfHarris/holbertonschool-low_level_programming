@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- *leet - switching certain chars for ints
+ * leet - switching certain chars for ints
  * 
  * Return: Always 0.
  */
