@@ -3,7 +3,7 @@
 
 /**
  *leet - switching certain chars for ints
- *@s: pointer
+ * 
  * Return: Always 0.
  */
 
