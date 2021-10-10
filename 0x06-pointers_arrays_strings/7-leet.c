@@ -20,9 +20,7 @@ for (x = 0 ; s[x] != 0 ; x++)
 for (y = 0 ; y <= 9 ; y++)
 {
 if (s[x] == a[y])
-{
 s[x] = i[y];
-}
 }
 }
 return (s);
