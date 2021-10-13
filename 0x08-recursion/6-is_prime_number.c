@@ -2,24 +2,41 @@
 /**
  *is_prime_number - check number to see if it is prime
  *@n: number being checked
- * Return: Always 0.
+ *@x: iterative number
+ * Return: if prime num = 1. Otherwise, 0.
  */
-
+int prime_num(int n, int x);
 int is_prime_number(int n)
 {
-int x;
+	int result = prime_num(n, 2);
 
-if (n <= 1)
-{
-return (0);
+	return (result);
 }
 
-for (x = 2 ; x < n ; x++)
+/**
+ *prime_num - find prime
+ *@n: number being checked
+ *@x: iterative number
+ * Return: same as above.
+ */
+
+int prime_num(int n, int x)
 {
-if (n % x == 0 && x != n)
-{
-return (0);
-}
-}
-return (1);
+	if (n == 2)
+	{
+		return (1);
+	}
+	if (n < 2)
+	{
+		return (0);
+	}
+	if (n % x == 0)
+	{
+		return (0);
+	}
+	if (x * x > n)
+	{
+		return (1);
+	}
+	return (prime_num(n, x + 1));
 }
