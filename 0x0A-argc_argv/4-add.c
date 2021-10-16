@@ -23,16 +23,13 @@ int main(int argc, char *argv[])
 	for (x = 1 ; x < argc ; x++)
 	{
 		y = atoi(argv[x]);
-
-		if (y == '\0')
+		if (y == '\0' )
 		{
 			printf("Error\n");
 			return (1);
 		}
-
 		sum = sum + y;
 	}
-
 	printf("%d\n", sum);
 	return (0);
 }
