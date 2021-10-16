@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	int y;
 	int sum;
 
-	if (argc == 1)
+	if (argc <= 1)
 	{
 		printf("0\n");
 		return (0);
@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 	for (x = 1 ; x < argc ; x++)
 	{
 		y = atoi(argv[x]);
-		if (y == '\0' )
+		if (y == '\0')
 		{
 			printf("Error\n");
 			return (1);
