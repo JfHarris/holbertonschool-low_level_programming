@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * strdup - return pointer to space in memory
+ *_strdup - return pointer to space in memory
  *@str: string to copy
  * Return: pointer mentioned above
  */
