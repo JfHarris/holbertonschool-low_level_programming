@@ -5,7 +5,7 @@
  *@ac: int
  *@argv: arguments
  *
- *Return:
+ *Return: 0.
  */
 
 int main(int ac, char *argv[])
