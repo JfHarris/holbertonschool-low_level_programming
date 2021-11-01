@@ -92,6 +92,7 @@ void print_all(const char * const format, ...)
 			if (ops[y].a == format[x])
 			{
 				printf("%s", str1);
+				ops[y].f(arg);
 				str1 = str2;
 			}
 			y++;
