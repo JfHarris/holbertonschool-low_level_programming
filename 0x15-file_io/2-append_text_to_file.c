@@ -27,7 +27,7 @@ int append_text_to_file(const char *filename, char *text_content)
 		}
 	}
 /* open file with correct permissions then append */
-	op = open(filename, O_APPEND);
+	op = open(filename, O_WRONLY,  O_APPEND);
 	wrt = write(op, text_content, length);
 
 	if (op == -1 || wrt == -1)
