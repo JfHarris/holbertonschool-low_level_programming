@@ -10,7 +10,7 @@
 
 void print_format(int *array, size_t left, size_t right)
 {
-printf("Searching in array: ");
+    printf("Searching in array: ");
     for (left = left; left < right; left++)
     {
         printf("%d, ", array[left]);
