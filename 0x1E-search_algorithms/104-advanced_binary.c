@@ -54,15 +54,15 @@ ref = recursive_binary(array, left, right, value);
 }
 else
 {
-        if (avg - 1 >= 0 && array[avg - 1] == array[avg])
-        {
-            ref = recursive_binary(array, left, avg, value);
-        }
-        else
-        {
-            ref = avg;
-        }
-    }
+if (avg - 1 >= 0 && array[avg - 1] == array[avg])
+{
+ref = recursive_binary(array, left, avg, value);
+}
+else
+{
+ref = avg;
+}
+}
 
 return (ref);
 }
@@ -77,19 +77,19 @@ return (ref);
 
 int advanced_binary(int *array, size_t size, int value)
 {
-    int ref = -1;
+int ref = -1;
 
-    if (array == NULL || size == 0)
-    {
-        return (-1);
-    }
+if (array == NULL || size == 0)
+{
+return (-1);
+}
 
-    ref = recursive_binary(array, 0, size - 1, value);
+ref = recursive_binary(array, 0, size - 1, value);
 
-    if (ref >= 0)
-    {
-        return (ref);
-    }
+if (ref >= 0)
+{
+return (ref);
+}
 
-    return (-1);
+return (-1);
 }
