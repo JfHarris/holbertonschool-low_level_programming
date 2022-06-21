@@ -10,12 +10,12 @@
 
 void print_format(int *array, size_t left, size_t right)
 {
-    printf("Searching in array: ");
-    for (left = left; left < right; left++)
-    {
-        printf("%d, ", array[left]);
-    }
-    printf("%d\n", array[left]);
+printf("Searching in array: ");
+for (left = left; left < right; left++)
+{
+printf("%d, ", array[left]);
+}
+printf("%d\n", array[left]);
 }
 
 /**
@@ -29,31 +29,31 @@ void print_format(int *array, size_t left, size_t right)
 
 size_t recursive_binary(int *array, size_t left, size_t right, int value)
 {
-    int avg;
-    int ref;
+int avg;
+int ref;
 
-    avg = 0;
-    ref = -1;
+avg = 0;
+ref = -1;
 
-    if (left > right)
-    {
-        return (-1);
-    }
+if (left > right)
+{
+return (-1);
+}
 
-    print_format(array, left, right);
-    avg = (left + right) / 2;
-    if (array[avg] < value)
-    {
-        left = avg + 1;
-        ref = recursive_binary(array, left, right, value);
-    }
-    else if (array[avg] > value)
-    {
-        right = avg - 1;
-        ref = recursive_binary(array, left, right, value);
-    }
-    else
-    {
+print_format(array, left, right);
+avg = (left + right) / 2;
+if (array[avg] < value)
+{
+left = avg + 1;
+ref = recursive_binary(array, left, right, value);
+}
+else if (array[avg] > value)
+{
+right = avg - 1;
+ref = recursive_binary(array, left, right, value);
+}
+else
+{
         if (avg - 1 >= 0 && array[avg - 1] == array[avg])
         {
             ref = recursive_binary(array, left, avg, value);
@@ -64,7 +64,7 @@ size_t recursive_binary(int *array, size_t left, size_t right, int value)
         }
     }
 
-    return (ref);
+return (ref);
 }
 
 /**
