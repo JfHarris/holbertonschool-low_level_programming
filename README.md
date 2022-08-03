@@ -6,9 +6,9 @@ After a few weeks using bash scripts at Holberton, we jumped into programming in
 
 This repository includes a wide range of projects we completed at Holberton.
 Including:
-1. Our introduction to C. [link](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x00-hello_world "Hello, World")
-2. Pointers! [pointers](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings "Pointers")
-3. This was one of my favorite assignments at Holberton. [link](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation "Bit manipulation")
+1. [Our introduction to C.](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x00-hello_world "Hello, World")
+2. [Pointers!](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings "Pointers")
+3. [This was one of my favorite assignments at Holberton.](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation "Bit manipulation")
 
 __Author__::pencil:
 
@@ -19,4 +19,4 @@ __Not ncluded in this repository:__
 Our group projects implemented in C:
 
 1. A printf function [link](https://github.com/JfHarris/printf)
-    * co-author Cameron Crupper:muscle: [link](https://github.com/cameroncrupper)
+    * co-author [Cameron Crupper](https://github.com/cameroncrupper):muscle:
