@@ -10,5 +10,5 @@ Including:
 2. Pointers! [link](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings "Pointers")
 3. This was one of my favorite assignments at Holberton. [link](https://github.com/JfHarris/holbertonschool-low_level_programming/tree/master/0x14-bit_manipulation "Bit manipulation")
 
-**Strong**__Author__::pencil:
+__Author__::pencil:
 Jeff Harris
