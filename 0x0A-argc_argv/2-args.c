@@ -5,7 +5,6 @@
  *main - print all arguments
  *@argc: number of args
  *@argv: string containing args
- *
  *Return: 0
  */
 

@@ -5,7 +5,6 @@
  * @array: receives function
  *@action: pointer to function
  *@size: size of array
- *
  * Return: Nothing.
  */
 

@@ -10,7 +10,6 @@
  *op_mul - multiplication
  *op_div - division
  *op_mod - modulus
- *
  * Return: result of operation.
  */
 

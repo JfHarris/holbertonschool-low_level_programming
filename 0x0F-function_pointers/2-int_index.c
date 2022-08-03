@@ -5,7 +5,6 @@
  * @array: array of ints
  *@size: number of elements in array
  *@cmp: function that compares
- *
  * Return: -1 if no match or size <= 0.
  */
 

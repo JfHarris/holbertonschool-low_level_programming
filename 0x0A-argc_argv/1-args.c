@@ -5,7 +5,6 @@
  *main - print number of arguments
  *@argc: number of arguments
  *@argv: unused attribute
- *
  *Return: (0)
  */
 

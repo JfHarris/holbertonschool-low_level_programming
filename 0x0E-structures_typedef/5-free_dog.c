@@ -5,6 +5,7 @@
 /**
  * free_dog - free memory
  *@d: pointer
+ *
  * Return: void.
  */
 

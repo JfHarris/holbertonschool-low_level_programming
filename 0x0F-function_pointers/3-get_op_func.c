@@ -4,7 +4,6 @@
 /**
  * get_op_func - select function to perform operation
  *@s: struct
- *
  * Return: NULL
  */
 

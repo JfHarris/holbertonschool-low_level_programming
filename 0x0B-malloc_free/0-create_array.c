@@ -6,7 +6,6 @@
  * create_array - creates array
  * @size: size of array
  * @c: char
- *
  * Return: Nothing.
  */
 

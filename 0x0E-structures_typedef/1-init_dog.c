@@ -8,7 +8,6 @@
  *@name: char
  *@age: float
  *@owner: char
- *
  * Return: void.
  */
 

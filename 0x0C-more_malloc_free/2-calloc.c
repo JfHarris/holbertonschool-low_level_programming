@@ -6,7 +6,6 @@
  *_calloc - allocate memory
  * @nmemb: array
  * @size: size of array
- *
  * Return: Nothing.
  */
 

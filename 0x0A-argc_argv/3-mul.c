@@ -5,7 +5,6 @@
  *main - multiply two arguments
  *@argc: numbers to multiply
  *@argv: array
- *
  *Return: 0
  */
 

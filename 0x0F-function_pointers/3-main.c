@@ -4,7 +4,6 @@
  * main - creating main function
  *@ac: int
  *@argv: arguments
- *
  *Return: 0.
  */
 

@@ -8,7 +8,7 @@
  *@s1: string 1
  *@s2: string 2
  *@n: bytes od s2
- * Return: pointer to strings.
+ * Return: pointer to string.
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {

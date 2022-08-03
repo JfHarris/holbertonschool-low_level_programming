@@ -5,7 +5,6 @@
  *main - adding numbers
  *@argc: numbers to add
  *@argv: array
- *
  *Return: if not digit (1) if no digit (0) else (sum)
  */
 

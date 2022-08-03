@@ -5,7 +5,6 @@
 /**
  *print_dog - print struct dog
  *@d: pointer
- *
  * Return: void.
  */
 

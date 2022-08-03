@@ -5,6 +5,7 @@
 /**
  *_strlen- length of strong
  *@s: pointer
+ *
  * Return: Always 0.
  */
 

@@ -5,6 +5,7 @@
 /**
  * malloc_checked - check success of malloc
  *@b: pointer
+ *
  * Return: Always 0.
  */
 

@@ -5,7 +5,6 @@
  *main - print name of function
  *@argc: arhument count
  *@argv: name to print
- *
  *Return: (0)
  */
 

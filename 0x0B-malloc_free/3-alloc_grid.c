@@ -5,7 +5,6 @@
  *
  * @width: width of the grid
  * @height: height of the grid
- *
  * Return: grid.
  */
 

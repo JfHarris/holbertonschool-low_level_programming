@@ -6,7 +6,6 @@
  * array_range - allocate memory for array
  * @min: first int in array
  * @max: final int in array
- *
  * Return: Nothing.
  */
 

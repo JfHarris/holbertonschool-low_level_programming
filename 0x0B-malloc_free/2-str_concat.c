@@ -7,6 +7,7 @@
  * str_concat - concat 2 strings
  *@s1: string one
  *@s2: string 2
+ *
  * Return: NULL on failure, pointer otherwise.
  */
 
