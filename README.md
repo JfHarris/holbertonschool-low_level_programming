@@ -18,5 +18,7 @@ __Not ncluded in this repository:__
 
 Our group projects implemented in C:
 
-1. A printf function [link](https://github.com/JfHarris/printf)
+1. [A printf function](https://github.com/JfHarris/printf)
     * co-author [Cameron Crupper](https://github.com/cameroncrupper):muscle:
+2. [A simple shell](https://github.com/JfHarris/simple_shell)
+    * co-author [Adam Brummer](https://github.com/AdamNB-sys):thumbsup:
