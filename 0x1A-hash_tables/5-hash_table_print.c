@@ -3,7 +3,6 @@
 /**
  * hash_table_print - prints hash table
  *@ht: hash table
- *
  * Return: hash table.
  */
 

@@ -4,7 +4,6 @@
  * key_index - gives index of a key
  *@key: key
  *@size: array size of hash table
- *
  * Return: index to store in array.
  */
 

@@ -4,7 +4,6 @@
  * new_node - makes new node
  *@key: key
  *@value: value
- *
  * Return: node.
  */
 

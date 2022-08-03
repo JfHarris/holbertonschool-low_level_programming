@@ -3,7 +3,6 @@
 /**
  * hash_djb2 - implements the djb2 algorithm
  *@str: string
- *
  * Return: string.
  */
 

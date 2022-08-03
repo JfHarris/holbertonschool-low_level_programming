@@ -4,7 +4,6 @@
  * hash_table_get - get value of key
  *@ht: hash table
  *@key: key
- *
  * Return: value of key or NULL.
  */
 
