@@ -19,4 +19,4 @@ __Not ncluded in this repository:__
 Our group projects implemented in C:
 
 1. A printf function [link](https://github.com/JfHarris/printf)
-* co-author <Cameron Crupper>
+* co-author Cameron Crupper:muscle: [link](https://github.com/cameroncrupper)
