@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stddef.h>
+
 /**
  *_strstr - finds matching bytes of substring in string
  *@haystack: string to check

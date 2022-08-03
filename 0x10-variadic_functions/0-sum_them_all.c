@@ -7,7 +7,6 @@
 /**
  * sum_them_all - adds all
  *@n: number of parameters
- *
  * Return: 0 if n = 0, sum otherwise.
  */
 

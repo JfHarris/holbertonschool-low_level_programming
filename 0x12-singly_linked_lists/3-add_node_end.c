@@ -4,7 +4,6 @@
  * add_node_end - adds node to end of list
  *@head: beginning of string
  *@str: string
- *
  * Return: NULL if fail, else address of new element.
  */
 

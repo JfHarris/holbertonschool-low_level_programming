@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *factorial - factorial
  *@n: number

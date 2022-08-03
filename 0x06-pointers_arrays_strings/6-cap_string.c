@@ -6,6 +6,7 @@
  *@a: pointer
  * Return: Always 0.
  */
+
 char *cap_string(char *a)
 {
 int x;

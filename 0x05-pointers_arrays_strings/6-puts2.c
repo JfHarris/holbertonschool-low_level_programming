@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  *puts2- print every other character then new line
  *@str: pointer
  * Return: Always 0.
  */
+
 void puts2(char *str)
 {
 int x;

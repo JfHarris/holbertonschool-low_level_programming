@@ -4,7 +4,6 @@
  * print_numbers - print numbers
  *@separator: chars to put between numbers
  *@n: number of ints passed
- *
  * Return: Always 0.
  */
 

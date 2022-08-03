@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_strspn - returns length of substring
  *@s: target string

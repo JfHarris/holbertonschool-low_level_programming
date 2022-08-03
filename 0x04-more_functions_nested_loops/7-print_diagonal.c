@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_diagonal- printing
  *@n: var

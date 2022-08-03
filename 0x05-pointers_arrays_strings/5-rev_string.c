@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  *rev_string- reverse string
  *@s: char string
  * Return: Always 0.
  */
+
 void rev_string(char *s)
 {
 int x;

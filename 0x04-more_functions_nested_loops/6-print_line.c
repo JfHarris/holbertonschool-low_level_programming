@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_line - printing blank lines
  *@n: variable

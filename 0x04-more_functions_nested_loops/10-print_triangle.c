@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_triangle- print triangle using #
  *@size: var

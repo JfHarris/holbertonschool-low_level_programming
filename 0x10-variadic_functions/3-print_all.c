@@ -2,7 +2,6 @@
 
 /**
  * print_char - print chars
- *
  *@arg: argument
  *
  *Return: void.

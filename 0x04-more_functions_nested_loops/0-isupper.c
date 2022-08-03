@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_isupper- print 1 if "C", 0 otherwise.
  *@c: variable

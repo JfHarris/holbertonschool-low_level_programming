@@ -4,6 +4,7 @@
 /**
  *string_toupper - change all lowercase letters of a string to uppercase
  *@a: pointer to string
+ *
  * Return: Always 0.
  */
 

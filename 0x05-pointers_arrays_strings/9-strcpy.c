@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
  *_strcpy- copy string from src to dest
  *@dest: char
  *@src: char
  * Return: Always 0.
  */
+
 char *_strcpy(char *dest, char *src)
 {
 int x;

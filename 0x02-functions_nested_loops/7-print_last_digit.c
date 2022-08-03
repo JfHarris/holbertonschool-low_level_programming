@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_last_digit- printing last digit of n
  *@n: int variable

@@ -4,7 +4,6 @@
  * add_node - add node to list
  *@head: start of string
  *@str: string
- *
  * Return: nodes.
  */
 

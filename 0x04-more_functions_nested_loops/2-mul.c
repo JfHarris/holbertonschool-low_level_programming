@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *mul - multiply int
  *@a: var

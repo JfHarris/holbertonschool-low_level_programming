@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_chessboard - check the code
  *@a: array

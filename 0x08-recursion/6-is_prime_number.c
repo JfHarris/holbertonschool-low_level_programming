@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
  *is_prime_number - check number to see if it is prime
  *@n: number being checked
  *@x: iterative number
  * Return: if prime num = 1. Otherwise, 0.
  */
+
 int prime_num(int n, int x);
 int is_prime_number(int n)
 {
