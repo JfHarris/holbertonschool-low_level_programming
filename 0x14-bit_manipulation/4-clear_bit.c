@@ -4,7 +4,6 @@
  * clear_bit - clear bit
  *@n: value to clear
  *@index: bit location
- *
  * Return: 1 on success, -1 on failure.
  */
 

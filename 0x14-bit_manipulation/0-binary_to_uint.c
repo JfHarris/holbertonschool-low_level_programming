@@ -3,7 +3,6 @@
 /**
  * binary_to_uint - change to unsigned int
  *@b: string
- *
  * Return: unsigned int or 0.
  */
 

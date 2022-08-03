@@ -3,7 +3,6 @@
 /**
  * print_dlistint_backward - prints elements of list backwards
  *@h: pointer to head node
- *
  * Return: elements and contents of node.
  */
 

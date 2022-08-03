@@ -4,7 +4,6 @@
  * flip_bits - flips bits to get from num to num
  *@n: number to flip
  *@m: number to flip
- *
  * Return: number required to flip.
  */
 

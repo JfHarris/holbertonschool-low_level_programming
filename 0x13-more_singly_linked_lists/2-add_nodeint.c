@@ -4,7 +4,6 @@
  * add_nodeint - add node to list
  *@head: start of string
  *@n: node
- *
  * Return: nodes.
  */
 

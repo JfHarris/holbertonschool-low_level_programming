@@ -4,7 +4,6 @@
  * set_bit - set bit value
  *@n: number to set
  *@index: location of bit
- *
  * Return: bit value, or -1 on failure.
  */
 

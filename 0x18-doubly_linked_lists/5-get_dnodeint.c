@@ -4,7 +4,6 @@
  * get_dnodeint_at_index - returns Nth node of list
  *@head: pointer to head node
  *@index: location of node
- *
  * Return: node on success, NULL on failure.
  */
 

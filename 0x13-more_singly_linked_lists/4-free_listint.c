@@ -3,7 +3,6 @@
 /**
  * free_listint - free memory in linked list
  *@head: pointer
- *
  * Return: void
  */
 

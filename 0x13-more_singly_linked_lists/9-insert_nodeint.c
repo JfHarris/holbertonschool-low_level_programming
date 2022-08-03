@@ -5,7 +5,6 @@
  *@head: first node
  *@idx: place to put new node
  *@n: node contents
- *
  * Return: node.
  */
 

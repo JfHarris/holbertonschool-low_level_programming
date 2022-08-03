@@ -3,7 +3,6 @@
 /**
  * pop_listint - delete node
  *@head: first node
- *
  * Return: head node data.
  */
 

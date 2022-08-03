@@ -4,7 +4,6 @@
  * delete_dnodeint_at_index - delete node
  *@head: pointer to head node
  *@index: position of node to delete
- *
  * Return: 1 on success, -1 on failure.
  */
 

@@ -3,7 +3,6 @@
 /**
  * print_listint - print linked list
  *@h: pointer
- *
  * Return: nodes
  */
 

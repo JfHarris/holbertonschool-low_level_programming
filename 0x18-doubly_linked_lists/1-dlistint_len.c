@@ -3,7 +3,6 @@
 /**
  * dlistint_len - returns number of elements in list
  *@h: pointer to head node
- *
  * Return: number of elements in list.
  */
 

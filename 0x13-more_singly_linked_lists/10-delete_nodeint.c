@@ -4,7 +4,6 @@
  * delete_nodeint_at_index - delete node
  *@head: first node
  *@index: place on list to delete
- *
  * Return: -1 on failure, 1 on success.
  */
 

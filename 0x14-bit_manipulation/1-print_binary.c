@@ -3,7 +3,6 @@
 /**
  * print_binary - print binary
  *@n: binary to print
- *
  * Return: void.
  */
 

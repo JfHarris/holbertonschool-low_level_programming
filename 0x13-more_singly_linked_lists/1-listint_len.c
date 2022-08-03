@@ -3,7 +3,6 @@
 /**
  * listint_len - find length of list
  *@h: pointer
- *
  * Return: nodes.
  */
 

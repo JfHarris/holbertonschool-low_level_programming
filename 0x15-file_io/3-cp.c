@@ -8,7 +8,6 @@ void write_err(char *st);
  * main - copy file
  *@a: args
  *@str: string
- *
  * Return: Always 0.
  */
 

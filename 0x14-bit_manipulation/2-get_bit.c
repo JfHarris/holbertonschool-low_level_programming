@@ -4,7 +4,6 @@
  * get_bit - cet value
  *@n: number to get
  *@index: location of bit
- *
  * Return: bit value, or -1 on failure.
  */
 

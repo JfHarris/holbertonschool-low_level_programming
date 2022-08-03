@@ -4,7 +4,6 @@
  * free_listint2 - free list memory
  *@head: first node
  *
- *
  */
 
 void free_listint2(listint_t **head)

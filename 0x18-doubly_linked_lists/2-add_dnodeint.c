@@ -4,7 +4,6 @@
  * add_dnodeint - add node at beginning of list
  *@head: pointer to heads node
  *@n: data to put in node
- *
  * Return: new node address on success, NULL on failure.
  */
 

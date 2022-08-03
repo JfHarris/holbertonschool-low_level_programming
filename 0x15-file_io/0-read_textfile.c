@@ -4,7 +4,6 @@
  * read_textfile - read & print text file
  *@filename: pointer to file's name
  *@letters: number of letters to read & print
- *
  * Return: 0 if NULL or on fail to open, read, or write. Number of letters read
  * and printed on success
  */

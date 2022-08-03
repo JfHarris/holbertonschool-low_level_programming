@@ -4,6 +4,7 @@
  * get_nodeint_at_index - get node at spot in list
  *@head: first node
  *@index: point to get node
+ *
  * Return: Node. NULL if node is missing.
  */
 

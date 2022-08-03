@@ -4,7 +4,6 @@
  * add_dnodeint_end - add node at end of list
  *@head: pointer to head node
  *@n: data to add to node
- *
  * Return: new node address on success, NULL on failure.
  */
 

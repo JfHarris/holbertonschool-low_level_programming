@@ -3,7 +3,6 @@
 /**
  * sum_listint - sum of list
  *@head: first pointer
- *
  * Return: total of list.
  */
 

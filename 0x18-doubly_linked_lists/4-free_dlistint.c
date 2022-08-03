@@ -3,7 +3,6 @@
 /**
  * free_dlistint - free list memory
  *@head: pointer to head node
- *
  * Return: void.
  */
 

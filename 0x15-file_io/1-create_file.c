@@ -4,7 +4,6 @@
  * create_file - creates file
  *@filename: name of file to create
  *@text_content: string to write the file
- *
  * Return: 1 on success, -1 on failure.
  */
 

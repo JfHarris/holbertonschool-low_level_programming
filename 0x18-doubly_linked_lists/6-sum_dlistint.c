@@ -3,7 +3,6 @@
 /**
  * sum_dlistint - returns sum of all data in list
  *@head: pointer to head node
- *
  * Return: sum.
  */
 
